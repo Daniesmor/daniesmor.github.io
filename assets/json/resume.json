@@ -84,7 +84,7 @@
   "projects": [
     {
       "name": "Dr.Scratch++",
-      "summary": "Dr. Scratch is a tool to analyze online Scratch projects, improving students' programming skills and feeding back their learning in aspects related to computational thinking, allowing their improvement.",
+      "summary": "Dr.Scratch is a tool to analyze online Scratch projects, improving students' programming skills and feeding back their learning in aspects related to computational thinking, allowing their improvement.",
       "highlights": ["Computational thinking", "Scratch"],
       "url": "https://drscratch.org"
     }
