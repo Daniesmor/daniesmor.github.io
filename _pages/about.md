@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='../assets/keys/pgp_daniesmor.asc'>PGP Public Key (local file)</a>.
 
 profile:
   align: right
