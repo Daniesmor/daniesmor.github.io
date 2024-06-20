@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: gsyc.urjc.es/~daniesmorgsyc.urjc.es/~daniesmor/sitemap.xml
+Sitemap: gsyc.urjc.es/~daniesmor~daniesmor/sitemap.xml
