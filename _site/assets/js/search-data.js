@@ -10,35 +10,35 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/gsyc.urjc.es/~daniesmor/";
+      window.location.href = "/~daniesmor/";
     },
   },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/gsyc.urjc.es/~daniesmor/blog/";
+            window.location.href = "/~daniesmor/blog/";
           },
         },{id: "nav-publications",
           title: "publications",
           description: "publications by categories in reversed chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/gsyc.urjc.es/~daniesmor/publications/";
+            window.location.href = "/~daniesmor/publications/";
           },
         },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/gsyc.urjc.es/~daniesmor/projects/";
+            window.location.href = "/~daniesmor/projects/";
           },
         },{id: "nav-cv",
           title: "cv",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/gsyc.urjc.es/~daniesmor/cv/";
+            window.location.href = "/~daniesmor/cv/";
           },
         },{
         id: 'socials-email',
